@@ -1,0 +1,13 @@
+<LinearLayout android:padding="15dp" android:gravity="center" android:background="@drawable/background" android:layout_height="fill_parent" android:layout_width="fill_parent" android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
+
+<TextView android:layout_height="wrap_content" android:layout_width="fill_parent" android:textSize="50sp" android:text="@string/main_title"/>
+
+<Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/continue_label" android:id="@+id/continue_button"/>
+
+<Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/new_label" android:id="@+id/new_button"/>
+
+<Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/about_label" android:id="@+id/about_button"/>
+
+<Button android:layout_height="wrap_content" android:layout_width="fill_parent" android:text="@string/exit_label" android:id="@+id/exit_button"/>
+
+</LinearLayout>

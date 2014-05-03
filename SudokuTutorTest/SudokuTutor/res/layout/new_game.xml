@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="15dp" >
+
+      <Button
+          android:id="@+id/new_blank_button"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:layout_alignBottom="@+id/new_diff_button"
+          android:layout_alignLeft="@+id/new_diff_button"
+          android:layout_marginBottom="47dp"
+          android:text="@string/new_blank_label" />
+      <Button
+        android:id="@+id/new_diff_button"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:text="@string/new_diff_label" />
+      <Button
+          android:id="@+id/new_back_button"
+          android:layout_width="fill_parent"
+          android:layout_height="wrap_content"
+          android:layout_alignLeft="@+id/new_diff_button"
+          android:layout_below="@+id/new_diff_button"
+          android:text="@string/new_back_label" />
+
+</RelativeLayout>

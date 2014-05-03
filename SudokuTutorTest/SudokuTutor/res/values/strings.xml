@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SudokuTutor</string>
+    <string name="action_settings">Settings</string>
+	<string name="main_title">Sudoku Tutor Android Application </string>
+	<string name="continue_label">Continue</string>
+	<string name="new_label">New Game</string>
+	<string name="about_label">About</string>
+	<string name="exit_label">Exit</string>
+    <string name="about_title">About Sudoku Tutor</string>
+	<string name="about_text">This application was developed by Dean McNeill, a Computer Science Student as a Final year project for the 2013/14
+	academic year at the <i>Univerrsity of Ulster, Magee Campus</i>
+	</string>
+	<string name="settings_label">Settings</string>
+	<string name="settings_title">Sudoku settings</string>
+	<string name="settings_shortcut">s</string>
+	<string name="music_title">Music</string>
+	<string name="music_summary">Play background music</string>
+	<string name="hints_title">Hints</string>
+	<string name="hints_summary">Show hints during play</string>
+	<string name="new_game_title">New game options</string>
+	<string name="new_game_options_title">Select Option</string>
+	<string name="ex_easy_label">Extremely Easy</string>
+	<string name="easy_label">Easy</string>
+	<string name="medium_label">Medium</string>
+	<string name="hard_label">Hard</string>
+	<string name="new_diff_label">Select Difficulty</string>
+	<string name="new_blank_label">Enter your own Sudoku</string>
+	<string name="evil_label">Evil</string>
+	<string name="game_title">Game</string>
+	<string name="no_moves_label">No moves</string>
+	<string name="keypad_title">Keypad</string>
+	<string name="new_back_label">Back to Menu</string>
+	<string name="complete_label">Well done!! You have completed the Sudoku</string>
+	
+	
+	
+</resources>
